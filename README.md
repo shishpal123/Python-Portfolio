@@ -15,8 +15,7 @@ Here are some of the certifications I’ve earned in my Python learning journey:
 - Python for AI & ML – Advanced Course
 - Full Stack Development with Python
 - Automating with Python – Certified
-(Replace "link-to-certificate" with actual URLs if certificates are hosted online.)
-🚀 Why This Repository?
+
 Having a dedicated repository for my Python certifications serves multiple purposes:
 - 📂 Organized & Accessible – All my Python-related credentials in one place.
 - 📌 Professional Showcase – Helps potential employers and collaborators assess my skills.
